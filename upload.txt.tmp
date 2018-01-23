@@ -1,0 +1,10 @@
+This is for maintenance for GDP-12.  
+
+The branch for 12.x is made for the maintenance as it is requested.
+However, it is branched from 2 commits behind ( cfafb73... ).
+so the pull request includes missing 2 commits + my commit for fixing build.
+
+https://at.projects.genivi.org/jira/browse/GDP-774
+
+This meta is submodule of genivi-dev-platform, and 
+I will also make pull request to track the newest source.
